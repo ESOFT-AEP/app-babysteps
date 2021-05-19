@@ -1,0 +1,19 @@
+[
+  {
+    "titulo": "Gripes",
+    "descricao": "Grupo de sintomas que estejam relacionados com a gripe",
+    "capa": "https://imagem/teste",
+  },
+
+  {
+    "titulo": "Refluxos",
+    "descricao": "Grupo de sintomas relacionados com refluxos",
+    "capa": "https://imagens/teste",
+  },
+
+  {
+    "titulo": "Dores corporais",
+    "descricao": "Grupo de sintomas relacionados a dores em regiões do corpo",
+    "capa": "https://imagens/teste",
+  },
+]
